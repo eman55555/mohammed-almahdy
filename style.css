@@ -1,0 +1,48 @@
+.nav_btn{
+    font-size: 17px;
+    width: 150px;
+height: 47px;
+font-family: 'Cairo', sans-serif;
+border-radius: 29px;
+background-color: #1574f6;
+border-color: transparent;
+}
+
+nav li a{
+
+    font-size: 17px;
+color: #4c5263;
+
+font-family: 'Cairo', sans-serif;
+}
+
+
+.features  h5{
+    font-size: 30px;
+    color: #4c5263;
+    font-family: "Ara Hamah Homs";
+
+}
+
+.features p{
+    font-size: 14px;
+color: #656565;
+font-weight: 600;
+font-family: "Cairo";
+text-align: right;
+}
+.feature_btn{
+    width: 112px;
+height: 54px;
+border-radius: 27px;
+border-color: transparent;
+background-color: #075dd2;
+}
+
+.feature_light_btn{
+    width: 183px;
+height: 54px;
+border-radius: 27px;
+background-color: #ffffff;
+border: 2px solid #075dd2;
+}
